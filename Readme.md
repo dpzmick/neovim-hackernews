@@ -13,6 +13,8 @@ background and the buffer will open when it is ready.
 
 In that new buffer, run :HackerOpen to open the selected story
 
+The plugin is not particularly useful, but its a cool demo of neovim's features.
+
 Demo
 ====
 ![demo](hacker.gif)
