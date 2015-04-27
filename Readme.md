@@ -12,3 +12,7 @@ buffer will take a second to open, but the stories are populated in the
 background and the buffer will open when it is ready.
 
 In that new buffer, run :HackerOpen to open the selected story
+
+Demo
+====
+![demo](hacker.gif)
